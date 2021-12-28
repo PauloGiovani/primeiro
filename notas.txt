@@ -1,1 +1,9 @@
 Notas
+
+1. Criar o repositório no GitHub;
+2. Criar o diretório para os arquivos do projeto, dentro do computador;
+3. Clonar o repositório;
+4. Adicionar o diretório do projeto dentro do workspace do VS Code.
+5. Fazer as alterações, adicionar os arquivos U, comitar e realizar o Push;
+6. Se necessário, realizar um Pull para baixar as alterações feitas por outros.
+

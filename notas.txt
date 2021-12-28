@@ -6,4 +6,4 @@ Notas
 4. Adicionar o diretório do projeto dentro do workspace do VS Code.
 5. Fazer as alterações, adicionar os arquivos U, comitar e realizar o Push;
 6. Se necessário, realizar um Pull para baixar as alterações feitas por outros.
-
+7. Para estender as possibilidades, instale o plugin GitLens!
